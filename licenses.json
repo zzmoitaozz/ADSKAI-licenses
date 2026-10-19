@@ -4,5 +4,11 @@
     "owner": "user",
     "expires": null,
     "revoked": false
+  },
+  "S0JO-WP9Z-9TZL-6794": {
+    "machine_id": "B41FB-CA76F-6D9AB-15CBE",
+    "owner": "Quang",
+    "expires": null,
+    "revoked": false
   }
 }
