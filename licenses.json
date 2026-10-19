@@ -1,5 +1,4 @@
 {
- 
   "UF3B-UJ4M-QP87-ALA0": {
     "machine_id": "849B1-F19FE-5A4B7-90E09",
     "owner": "user",
@@ -9,6 +8,12 @@
   "26SJ-VNDY-E1TJ-BDA2": {
     "machine_id": "A3294-4713D-2D8A1-A102E",
     "owner": "Admin",
+    "expires": null,
+    "revoked": false
+  },
+  "05SO-RL9X-WCVR-JGQF": {
+    "machine_id": "B41FB-CA76F-6D9AB-15CBE",
+    "owner": "Quang",
     "expires": null,
     "revoked": false
   }
