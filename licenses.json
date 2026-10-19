@@ -4,5 +4,11 @@
     "owner": "Quang (dev PC)",
     "expires": null,
     "revoked": false
+  },
+  "UF3B-UJ4M-QP87-ALA0": {
+    "machine_id": "849B1-F19FE-5A4B7-90E09",
+    "owner": "user",
+    "expires": null,
+    "revoked": false
   }
 }
