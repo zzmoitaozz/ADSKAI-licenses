@@ -10,5 +10,11 @@
     "owner": "user",
     "expires": null,
     "revoked": false
+  },
+  "26SJ-VNDY-E1TJ-BDA2": {
+    "machine_id": "A3294-4713D-2D8A1-A102E",
+    "owner": "Admin",
+    "expires": null,
+    "revoked": false
   }
 }
