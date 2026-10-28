@@ -1,9 +1,13 @@
 {
- 
-
   "U9CG-0GG4-Y221-T7R9": {
     "machine_id": "A3294-4713D-2D8A1-A102E",
     "owner": "AnTTP9",
+    "expires": null,
+    "revoked": false
+  },
+  "O3Z3-3IIP-VCSC-227Y": {
+    "machine_id": "B41FB-CA76F-6D9AB-15CBE",
+    "owner": "HomePC",
     "expires": null,
     "revoked": false
   }
