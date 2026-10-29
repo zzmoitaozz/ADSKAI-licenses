@@ -16,5 +16,11 @@
     "owner": "P14",
     "expires": null,
     "revoked": false
+  },
+  "WAOJ-BOZ6-GLW8-0LPG": {
+    "machine_id": "C5A6E-D337B-A6E5A-45E3F",
+    "owner": "p14-pc",
+    "expires": null,
+    "revoked": false
   }
 }
