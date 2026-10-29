@@ -10,5 +10,11 @@
     "owner": "HomePC",
     "expires": null,
     "revoked": false
+  },
+  "744G-HHGY-ZU3A-4NYR": {
+    "machine_id": "849B1-F19FE-5A4B7-90E09",
+    "owner": "P14",
+    "expires": null,
+    "revoked": false
   }
 }
