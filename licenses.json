@@ -22,5 +22,11 @@
     "owner": "p14-pc",
     "expires": null,
     "revoked": false
+  },
+  "DO1F-Q2Y6-EYCP-PDQ3": {
+    "machine_id": "EC168-31D30-DF405-8EDEF",
+    "owner": "Kien",
+    "expires": null,
+    "revoked": false
   }
 }
